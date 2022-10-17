@@ -59,7 +59,6 @@ Dans ces  interface L’admin peut trouver les commandes faites par les clients 
   ![image](https://user-images.githubusercontent.com/93013624/196182118-57ec891d-4ff7-47f9-b0bb-71560fbc9b61.png)
   ![image](https://user-images.githubusercontent.com/93013624/196182180-dee14b98-37ac-41a0-b948-4c379a7c2759.png)
 
-  Conclusion :
-Dans ce chapitre nous avons présenté, la structure de notre projet qui contient la configuration et le codage de  l’application, ainsi que la présentation de toutes les interfaces de cette  application.
+ 
 
 
